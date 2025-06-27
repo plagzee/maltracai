@@ -64,9 +64,15 @@ We'd love to collaborate! 🙌
 
 ---
 
-## 📄 License
+## 📄 License & Data Contribution
 
 This project is licensed under the [MIT License](LICENSE).  
 Use it, modify it, contribute to it — just don’t scam people 😄
 
+We’ve already begun collecting **real-world scam messages from Discord**.  
+We're actively looking for **public data from other platforms** like Reddit, WhatsApp, Telegram, and Twitter/X to make the model more robust.
+
+If you have access to such datasets (anonymized or public), we’d love your help!
+
 ---
+
